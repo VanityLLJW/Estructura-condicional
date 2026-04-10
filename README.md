@@ -3,6 +3,7 @@
 Programacion Orietada A objetos
 
 Ejercicios:
+
 Pedir al usuario que ingrese su edad. Si es mayor o igual a 16 años, imprimí en pantalla: ¡¡Ya podes tener tu licencia de manejar!!
 Pedir al usuario un número. Si el número es par, mostrar en pantalla “Es un número par”, de lo contrario, mostrar “Es un número impar”.
 Pedir al usuario dos números e imprimir en pantalla cuál es mayor. Si los dos son iguales, imprimir en pantalla “¡Ingresaste dos números iguales!”
