@@ -2,14 +2,16 @@
 
 
 #include <iostream>
+#include <windows.h>
 using namespace std;
 
 int main()
 {
+	SetConsoleOutputCP(CP_UTF8);
 	string nombre;
 
 	cout << "Ingrese su nombre Porfavor: ";
 	cin >> nombre;
 
-	cout << "¡Hola, " << nombre << " !";	
+	cout << "¡Hola, " << nombre << "!";	
 }
