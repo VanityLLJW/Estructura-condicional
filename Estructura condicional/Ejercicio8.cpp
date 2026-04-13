@@ -35,13 +35,9 @@ int main()
 	}
 	else if (dias == 7){
 		cout << "Sabado";
-
 	}
 	else{
 		cout << "Numero invalido tiene que ser un numero del 1 al 7";
-
 	}
-
 	return 0;
-
 }
