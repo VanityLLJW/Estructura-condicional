@@ -1,4 +1,4 @@
-// Pedir al usuario dos números y un operador aritmético (+, -, *, /) -> (1, 2, 3, 4). De acuerdo al operador aritmético elegido, realizar la operación correspondiente y mostrar el resultado en pantalla.
+//11) Pedir al usuario dos números y un operador aritmético (+, -, *, /) -> (1, 2, 3, 4). De acuerdo al operador aritmético elegido, realizar la operación correspondiente y mostrar el resultado en pantalla.
 //
 
 #include <iostream>
